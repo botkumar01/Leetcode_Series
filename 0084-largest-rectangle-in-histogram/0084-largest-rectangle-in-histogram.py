@@ -18,7 +18,8 @@ class Solution(object):
                 s[i] = count
             return ps
         def NSE(h):
-            ns = [0]*(len(h))
+            p = PSE(h)
+            maxi = 0
             st = []
             s = {}
             point = len(h)-1
@@ -28,14 +29,10 @@ class Solution(object):
                     count += 1
                     count += s[st[-1]]
                     st.pop()
-                ns[point] = count
+                maxi = max(maxi, (count+p[point]+1)*i)
                 st.append(i)
                 s[i] = count
                 point-=1
-            return ns
-        p = PSE(h)
-        n = NSE(h)
-        maxi = 0
-        for i in range(len(n)):
-            maxi = max(maxi, (p[i]+n[i]+1)*h[i] )
-        return maxi
+            return maxi
+        
+        return NSE(h)
