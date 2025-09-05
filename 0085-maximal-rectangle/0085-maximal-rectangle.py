@@ -22,7 +22,7 @@ class Solution(object):
             maxi =0
             st = []
             ans = PSE(temp)
-            print(ans)
+            # print(ans)
             point = len(temp)-1
             for i in temp[::-1]:
                 count = 0
@@ -44,6 +44,6 @@ class Solution(object):
                 else:
                     temp[point] += 1
                 point += 1
-            print(temp)
+            # print(temp)
             anns = max(anns,NSE(temp))
         return anns
