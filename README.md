@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/botkumar01/Leetcode_Series/tree/master/0085-maximal-rectangle) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/botkumar01/Leetcode_Series/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
