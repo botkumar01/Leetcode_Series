@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/botkumar01/Leetcode_Series/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/botkumar01/Leetcode_Series/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/botkumar01/Leetcode_Series/tree/master/2087-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/botkumar01/Leetcode_Series/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
