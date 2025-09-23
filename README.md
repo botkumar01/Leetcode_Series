@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/botkumar01/Leetcode_Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/botkumar01/Leetcode_Series/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botkumar01/Leetcode_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botkumar01/Leetcode_Series/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
