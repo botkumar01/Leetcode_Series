@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/botkumar01/Leetcode_Series/tree/master/0009-palindrome-number) |
+| [1903-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/botkumar01/Leetcode_Series/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/botkumar01/Leetcode_Series/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/botkumar01/Leetcode_Series/tree/master/0812-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/botkumar01/Leetcode_Series/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
