@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/botkumar01/Leetcode_Series/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botkumar01/Leetcode_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/botkumar01/Leetcode_Series/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/botkumar01/Leetcode_Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/botkumar01/Leetcode_Series/tree/master/0085-maximal-rectangle) |
+| [0735-asteroid-collision](https://github.com/botkumar01/Leetcode_Series/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/botkumar01/Leetcode_Series/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/botkumar01/Leetcode_Series/tree/master/0812-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/botkumar01/Leetcode_Series/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
