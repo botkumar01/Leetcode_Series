@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/botkumar01/Leetcode_Series/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/botkumar01/Leetcode_Series/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botkumar01/Leetcode_Series/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/botkumar01/Leetcode_Series/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/botkumar01/Leetcode_Series/tree/master/0735-asteroid-collision) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/botkumar01/Leetcode_Series/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/botkumar01/Leetcode_Series/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/botkumar01/Leetcode_Series/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/botkumar01/Leetcode_Series/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/botkumar01/Leetcode_Series/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/botkumar01/Leetcode_Series/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/botkumar01/Leetcode_Series/tree/master/0735-asteroid-collision) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/botkumar01/Leetcode_Series/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/botkumar01/Leetcode_Series/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
